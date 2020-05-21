@@ -1,0 +1,6 @@
+module.exports = {
+    executablePath: '/usr/bin/chromium',
+    login:          'your@email.com',
+    password:       'abc123#!',
+    savePath:       '/home/myusername/Couchsurfing/messages',
+};
